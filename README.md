@@ -1,0 +1,2 @@
+# Telecommunication-Growth-Strategies-Customer-Lifetime-Value-Segmentation-Analysis
+CLV-based customer segmentation project for a telecommunications company, leveraging PostgreSQL to analyze 7,000+ records and identify high-value, medium, low, and churn-risk segments. The project delivers actionable insights to optimize ARPU, improve retention, and drive targeted upsell and cross-sell strategies through data-driven marketing.
