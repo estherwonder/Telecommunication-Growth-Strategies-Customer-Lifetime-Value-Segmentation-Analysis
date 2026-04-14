@@ -19,7 +19,7 @@ The absence of a data-driven Customer Lifetime Value (CLV) segmentation model li
 ## Why CLV Segmentation?
 Customer Lifetime Value (CLV) segmentation is a data-driven strategy that involves categorizing customers into distinct groups based on their potential long-term value to a company. CLV enables to identify high-value customer segments, personalize upsell and cross-sell offers, optimize resource allocation, increase revenue, and strengthen long-term customer loyalty.
 
-##Tool(s)
+## Tool(s)
 PostgreSQL
 
 ## Data Sourcing and Cleaning
